@@ -1,8 +1,9 @@
 <div align="center">
   <h1>Detecção de Bordas: Um Estudo Comparativo de Métodos de Interpolação</h1>
 </div>
-<p align = "justify"> &emsp; Este projeto consiste em um estudo comparativo de diversos métodos de detecção de bordas, com foco na aplicação de diferentes técnicas de interpolação. Os métodos investigados incluem Subsampling, Bicubic, Sharpened, Lanczos, Box, Generalized, Content-Adaptive e Perceptual (ours). O objetivo é analisar e comparar a eficácia de cada método na detecção precisa de bordas em imagens.</p>
+<p align = "justify"> &emsp; Este projeto consiste em um estudo comparativo de diversos métodos de detecção e realce de bordas. O objetivo é analisar e comparar a eficácia de cada método na detecção precisa de bordas em imagens.</p>
 
+<!--, com foco na aplicação de diferentes técnicas de interpolação. Os métodos investigados incluem Subsampling, Bicubic, Sharpened, Lanczos, Box, Generalized, Content-Adaptive e Perceptual (ours). -->
 
 <!-- APENDICE -->
 
